@@ -1,0 +1,24 @@
+C:\Users\Aventador\Downloads\SerialPortListener_270410\SerialPortListener\SerialPortListener\bin\Debug\SerialPortListener.exe
+C:\Users\Aventador\Downloads\SerialPortListener_270410\SerialPortListener\SerialPortListener\bin\Debug\SerialPortListener.pdb
+C:\Users\Aventador\Downloads\SerialPortListener_270410\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.MainForm.resources
+C:\Users\Aventador\Downloads\SerialPortListener_270410\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.Properties.Resources.resources
+C:\Users\Aventador\Downloads\SerialPortListener_270410\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.csproj.GenerateResource.Cache
+C:\Users\Aventador\Downloads\SerialPortListener_270410\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.exe
+C:\Users\Aventador\Downloads\SerialPortListener_270410\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.pdb
+Z:\Serial_Continous\UPDATE\SerialPortListener_270410\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.exe
+Z:\Serial_Continous\UPDATE\SerialPortListener_270410\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.pdb
+Z:\Serial_Continous\UPDATE\SerialPortListener_270410\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.MainForm.resources
+Z:\Serial_Continous\UPDATE\SerialPortListener_270410\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.Properties.Resources.resources
+Z:\Serial_Continous\UPDATE\SerialPortListener_270410\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.csproj.GenerateResource.Cache
+Z:\Serial_Continous\UPDATE\SerialPortListener_270410\SerialPortListener\SerialPortListener\bin\Debug\SerialPortListener.exe
+Z:\Serial_Continous\UPDATE\SerialPortListener_270410\SerialPortListener\SerialPortListener\bin\Debug\SerialPortListener.pdb
+Z:\Serial_Continous\UPDATE\SerialPortListener_270410\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.csprojResolveAssemblyReference.cache
+Z:\Throttle TUROIAL\Code\Game_Controller\SerialPortListener\obj\x86\Debug\SerialPortListener.exe
+Z:\Throttle TUROIAL\Code\Game_Controller\SerialPortListener\obj\x86\Debug\SerialPortListener.pdb
+Z:\Throttle TUROIAL\Code\Game_Controller\SerialPortListener\obj\x86\Debug\SerialPortListener.MainForm.resources
+Z:\Throttle TUROIAL\Code\Game_Controller\SerialPortListener\obj\x86\Debug\SerialPortListener.Properties.Resources.resources
+Z:\Throttle TUROIAL\Code\Game_Controller\SerialPortListener\obj\x86\Debug\SerialPortListener.csproj.GenerateResource.Cache
+Z:\Throttle TUROIAL\Code\Game_Controller\SerialPortListener\bin\Debug\SerialPortListener.exe
+Z:\Throttle TUROIAL\Code\Game_Controller\SerialPortListener\bin\Debug\SerialPortListener.pdb
+F:\Throttle TUROIAL\Code\Game_Controller\SerialPortListener\obj\x86\Debug\SerialPortListener.exe
+F:\Throttle TUROIAL\Code\Game_Controller\SerialPortListener\obj\x86\Debug\SerialPortListener.pdb
