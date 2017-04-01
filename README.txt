@@ -15,7 +15,7 @@ Steps:
 4. Extract c# part.
 5. Implement the core logic of the controller ( or just follow the youtube tutorial video).
 6. Build and run the application.
-7. Run the game in paralle to this application.
+7. Run the game in parallel to this application.
 8. That's all!! Enjoy Gaming!!
 
 ;)
