@@ -22,3 +22,5 @@ Z:\Throttle TUROIAL\Code\Game_Controller\SerialPortListener\bin\Debug\SerialPort
 Z:\Throttle TUROIAL\Code\Game_Controller\SerialPortListener\bin\Debug\SerialPortListener.pdb
 F:\Throttle TUROIAL\Code\Game_Controller\SerialPortListener\obj\x86\Debug\SerialPortListener.exe
 F:\Throttle TUROIAL\Code\Game_Controller\SerialPortListener\obj\x86\Debug\SerialPortListener.pdb
+C:\Users\Raghav Venkat\Documents\GitHub\Serial_Listiner_Game_Controller\C#\SerialPortListener\obj\x86\Debug\SerialPortListener.exe
+C:\Users\Raghav Venkat\Documents\GitHub\Serial_Listiner_Game_Controller\C#\SerialPortListener\obj\x86\Debug\SerialPortListener.pdb

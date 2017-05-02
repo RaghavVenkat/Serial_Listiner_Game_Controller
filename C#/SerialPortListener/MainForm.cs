@@ -59,6 +59,8 @@ namespace SerialPortListener
                 return;
             }
 
+            // Do your condition checks here  - if you are using this for the first time watch tutorial https://youtu.be/wCeQcroGw6w
+
             int maxTextLength = 1000;
             
             if (tbData.TextLength > maxTextLength)
