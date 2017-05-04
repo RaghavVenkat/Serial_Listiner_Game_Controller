@@ -32,6 +32,7 @@
             System.Windows.Forms.Label baudRateLabel;
             System.Windows.Forms.Label dataBitsLabel;
             System.Windows.Forms.Label portNameLabel;
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainForm));
             this.baudRateComboBox = new System.Windows.Forms.ComboBox();
             this.dataBitsComboBox = new System.Windows.Forms.ComboBox();
             this.portNameComboBox = new System.Windows.Forms.ComboBox();
@@ -53,7 +54,7 @@
             baudRateLabel.ForeColor = System.Drawing.Color.Black;
             baudRateLabel.Location = new System.Drawing.Point(10, 59);
             baudRateLabel.Name = "baudRateLabel";
-            baudRateLabel.Size = new System.Drawing.Size(63, 13);
+            baudRateLabel.Size = new System.Drawing.Size(61, 13);
             baudRateLabel.TabIndex = 1;
             baudRateLabel.Text = "Baud Rate:";
             // 
@@ -63,7 +64,7 @@
             dataBitsLabel.ForeColor = System.Drawing.Color.Black;
             dataBitsLabel.Location = new System.Drawing.Point(10, 86);
             dataBitsLabel.Name = "dataBitsLabel";
-            dataBitsLabel.Size = new System.Drawing.Size(56, 13);
+            dataBitsLabel.Size = new System.Drawing.Size(53, 13);
             dataBitsLabel.TabIndex = 3;
             dataBitsLabel.Text = "Data Bits:";
             // 
@@ -73,7 +74,7 @@
             portNameLabel.ForeColor = System.Drawing.Color.Black;
             portNameLabel.Location = new System.Drawing.Point(10, 32);
             portNameLabel.Name = "portNameLabel";
-            portNameLabel.Size = new System.Drawing.Size(63, 13);
+            portNameLabel.Size = new System.Drawing.Size(60, 13);
             portNameLabel.TabIndex = 7;
             portNameLabel.Text = "Port Name:";
             // 
@@ -142,7 +143,7 @@
             this.tbData.Multiline = true;
             this.tbData.Name = "tbData";
             this.tbData.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.tbData.Size = new System.Drawing.Size(431, 80);
+            this.tbData.Size = new System.Drawing.Size(432, 101);
             this.tbData.TabIndex = 13;
             // 
             // btnStop
@@ -166,7 +167,9 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Gainsboro;
-            this.ClientSize = new System.Drawing.Size(455, 234);
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
+            this.ClientSize = new System.Drawing.Size(456, 255);
             this.Controls.Add(this.tbData);
             this.Controls.Add(this.btnStop);
             this.Controls.Add(this.btnStart);
